@@ -45,7 +45,7 @@ O sistema possui dois perfis de acesso: **Usuário Comum** e **Administrador**.
 
 | Login | Home | Carrinho | Admin |
 |:---:|:---:|:---:|:---:|
-| <img src="./assets/print-login.png" width="200" /> | <img src="./assets/print-home.png" width="200" /> | <img src="./assets/print-cart.png" width="200" /> | <img src="./assets/print-admin.png" width="200" /> |
+| <img src="./assets/print-login.JPEG" width="200" /> | <img src="./assets/print-home.png" width="200" /> | <img src="./assets/print-cart.png" width="200" /> | <img src="./assets/print-admin.png" width="200" /> |
 
 *(Substitua os caminhos acima pelas imagens reais do seu app)*
 
