@@ -48,6 +48,13 @@ O sistema possui dois perfis de acesso: **Usuário Comum** e **Administrador**.
 |:---:|:---:|:---:|:---:|
 | <img src="./Login.jpeg" width="200" /> | <img src="./Home.jpeg" width="200" /> | <img src="./Carrinho.jpeg" width="200" /> | <img src="./Admin.jpeg" width="200" /> |
 
+## 👥 Equipe de Desenvolvimento
+
+| Nome | Função | GitHub |
+| :--- | :--- | :--- |
+| **Pedro Kallut** | Front-end & UI | [![GitHub](https://img.shields.io/badge/GitHub-Kallutt-181717?style=flat&logo=github)](https://github.com/Kallutt) |
+| **Vitor Leonardo** | Back-end & Firebase | [![GitHub](https://img.shields.io/badge/GitHub-VitorXNK-181717?style=flat&logo=github)](https://github.com/VitorXNK) |
+
 
 ## 🚀 Como Rodar o Projeto
 
