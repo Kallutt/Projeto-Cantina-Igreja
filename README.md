@@ -41,12 +41,12 @@ O sistema possui dois perfis de acesso: **Usuário Comum** e **Administrador**.
 * **Navegação:** React Navigation (Stack & Bottom Tabs)
 * **UI/UX:** React Native Paper & Vector Icons
 
+
 ## 📸 Screenshots
 
 | Login | Home | Carrinho | Admin |
 |:---:|:---:|:---:|:---:|
-| <img src="./assets/print-login.JPEG" width="200" /> | <img src="./assets/print-home.png" width="200" /> | <img src="./assets/print-cart.png" width="200" /> | <img src="./assets/print-admin.png" width="200" /> |
-
+| <img src="./Login.jpeg" width="200" /> | <img src="./Home.jpeg" width="200" /> | <img src="./Carrinho.jpeg" width="200" /> | <img src="./Admin.jpeg" width="200" /> |
 *(Substitua os caminhos acima pelas imagens reais do seu app)*
 
 ## 🚀 Como Rodar o Projeto
