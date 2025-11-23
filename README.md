@@ -47,7 +47,7 @@ O sistema possui dois perfis de acesso: **Usuário Comum** e **Administrador**.
 | Login | Home | Carrinho | Admin |
 |:---:|:---:|:---:|:---:|
 | <img src="./Login.jpeg" width="200" /> | <img src="./Home.jpeg" width="200" /> | <img src="./Carrinho.jpeg" width="200" /> | <img src="./Admin.jpeg" width="200" /> |
-*(Substitua os caminhos acima pelas imagens reais do seu app)*
+
 
 ## 🚀 Como Rodar o Projeto
 
