@@ -59,6 +59,6 @@ O sistema possui dois perfis de acesso: **Usuário Comum** e **Administrador**.
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/Kallutt/nome-do-repositorio.git](https://github.com/Kallutt/nome-do-repositorio.git)# 🍔 App de Gestão de Cantina (Cantina da Igreja)
-
+   git clone [https://github.com/Kallutt/Projeto-Cantina-Igreja.git](https://github.com/Kallutt/Projeto-Cantina-Igreja.git)
+   
 > Projeto de Extensão Universitária - Universidade Estácio de Sá (2025)
